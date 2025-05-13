@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\const_0qh6k61\Documents\School\Data Mining\venv"
+VIRTUAL_ENV="C:\Users\const_0qh6k61\Documents\School\DataMiningFinalOutput\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
